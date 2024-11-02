@@ -1,0 +1,32 @@
+.visit {
+    font-size: 20pt;
+    color: black;
+}
+.web1 {
+    position: relative;
+   right: 300px;
+   top: 100px;
+}
+.content1 {
+    position: relative;
+    left: 650px;
+    top: 100px; 
+}
+.web2 {
+    position: relative;
+    top: 51px;
+    right: 100px;
+    width: 500px;
+    height: 273px;
+}
+.end{
+    font-size: 15px;
+    color: white;
+    position: relative;
+    top: 300px;
+}
+.tex{
+    position: relative;
+    color: black;
+    left: 1650px;
+}
